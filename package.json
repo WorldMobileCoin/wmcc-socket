@@ -1,0 +1,24 @@
+{
+  "name": "wmcc-socket",
+  "version": "1.0.0-beta.1",
+  "release": "13 August 2018",
+  "description": "WorldMobileCoin © WMCC WebSocket (Utility)",
+  "repository": "git://github.com/worldmobilecoin/wmcc-socket.git",
+  "homepage": "https://github.com/worldmobilecoin/wmcc-socket",
+  "bugs": {
+    "url": "https://github.com/worldmobilecoin/wmcc-socket/issues"
+  },
+  "author": "ParkAlter@WorldMobileCoin <worldmobilecoin@gmail.com>",
+  "keywords": [
+    "worldmobilecoin",
+    "wmcc",
+    "wmcc-socket",
+    "websocket",
+    "socket"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "./lib/wmcc-socket.js",
+  "license": "MIT"
+}
